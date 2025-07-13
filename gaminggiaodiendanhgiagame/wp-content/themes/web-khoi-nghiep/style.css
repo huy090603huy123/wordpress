@@ -1,0 +1,360 @@
+/*
+Theme Name: Web Khoi Nghiep
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+#mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link > .link_content > .link_text {
+    height: 70px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.p-dau-trang{
+    font-weight: bold;
+    color: #FF2851;
+    font-size: 14px
+}
+.box-text .category{
+    opacity: 1;
+    color: #fbbc05;
+}
+.category-page-title{
+    padding: 10px;
+}
+.category-page-title .woocommerce-breadcrumb {
+    color: #fbbc05
+}
+.blog-archive .row-divided,.blog-single .row-divided,.category-page-row {
+     background: #181818;
+     margin-bottom: 5px;
+  
+    padding-top: 22px;
+}
+p.danh-gia{
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #fbbc05;
+}
+.product-title a{
+    font-weight: bold;
+    font-size: 17px;
+}
+.div-no-des .box-excerpt {
+    display: none;
+}
+.is-divider{
+    display: none;
+}
+ul.header-bottom-nav{
+    margin-bottom: -28px;
+        list-style: none;
+
+    display: table;
+    width: 100%;
+}
+.flex-center ul.header-bottom-nav:before{
+       top: 0;
+    left: -10px;
+    content: "";
+    width: 13px;
+    height: 75px;
+    transform: skewX(-10deg);
+    background: rgba(255,40,81,0.5);
+    position: absolute;
+    border-right: 3px solid #181818;
+    transition: 400ms ease;
+    z-index: 100000;
+    display: table;
+    content: " ";
+}
+ul.header-bottom-nav li {
+    margin: 0px !important;
+}
+ul.header-bottom-nav li a:hover{
+    background: #ff2851 !important;
+    color: #181818 !important;
+}
+ul.header-bottom-nav li a{
+    background: #282828 !important;
+    display: block;
+    height: 75px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 26px 17px;
+    transition: 400ms ease;
+    -moz-transition: none;
+    transform: skewX(-10deg);
+    border-left: 2px solid #181818;
+    overflow: hidden;
+
+}
+ul.mega_dropdown {
+    background: black !important
+}
+ul.header-bottom-nav ul.mega_dropdown  a{
+    border-left: unset;
+    font-size: 15px;
+    height: unset;
+    padding: unset !important;
+    transition: unset !important;
+    transform: unset !important;
+    background: transparent !important;
+    color: white !important;
+
+}
+ul.header-bottom-nav ul.mega_dropdown p.category,ul.header-bottom-nav ul.mega_dropdown .div-thong-tin{
+    display: none;
+}
+ul.header-bottom-nav ul.mega_dropdown a:before{
+    display: none !important;
+}
+ul.header-bottom-nav li a:before{
+        width: 30px;
+    height: 150px;
+    background: #181818;
+    position: absolute;
+    right: -30px;
+    top: -30px;
+    left: auto;
+    content: "";
+    transition: right 0.4s ease;
+    transition-delay: 0.15s;
+    -webkit-transition-delay: 0.15s;
+    visibility: hidden;
+}
+ul.header-bottom-nav li a:after{
+        width: 20px;
+    height: 150px;
+    background: #181818;
+    position: absolute;
+    right: -30px;
+    top: -30px;
+    left: auto;
+    content: "";
+    transition: right 0.4s ease;
+    -moz-transition: none;
+    visibility: hidden;
+}
+
+.footer-1 .dark{
+    background: #181818;
+}
+.absolute-footer{
+        background: #181818;
+    padding: 20px 0;
+    color: #a1a1a1;
+    font-size: 12px;
+    text-align: center;
+    border-top: 1px solid #0a0a0a;
+    box-shadow: rgba(0,0,0,0.3) 0 12px 15px inset;
+}
+.title-default > div:after {
+    left: 3px;
+    right: 3px;
+    top: 0;
+    height: 100%;
+    content: "";
+    position: absolute;
+    transform: skewX(-10deg);
+    z-index: 10000;
+    background: #ff2851;
+}
+.title-default .more:after {
+    left: 3px;
+    right: 3px;
+    height: 100%;
+    content: "";
+    position: absolute;
+    transform: skewX(-10deg);
+    z-index: 10;
+    background: transparent;
+    border: 1px solid #ff2851;
+    transition: 400ms ease;
+}
+.title-default .more span:after {
+    width: 10px;
+    height: 100px;
+    background: #181818;
+    transform: skewX(-10deg);
+    position: absolute;
+    right: -20px;
+    top: -20px;
+    left: auto;
+    content: "";
+    transition: right 0.4s ease;
+    visibility: hidden;
+}
+.title-default .more span:before {
+    width: 10px;
+    height: 100px;
+    background: #181818;
+    transform: skewX(-10deg);
+    position: absolute;
+    right: -20px;
+    top: -20px;
+    left: auto;
+    content: "";
+    transition: right 0.4s ease;
+    transition-delay: 0.15s;
+    -webkit-transition-delay: 0.15s;
+    visibility: hidden;
+}
+.title-default .more span {
+    z-index: 100;
+    position: relative;
+}
+.title-default .more {
+    margin-left: -7px;
+        color: #ff2851;
+    font: 700 12px/33px Dosis, sans-serif;
+    position: relative;
+    display: block;
+    float: left;
+    text-transform: uppercase;
+    padding: 0 15px;
+    overflow: hidden;
+}
+.title-default > div span {
+    z-index: 100000;
+    position: relative;
+    display: inline-block;
+    padding: 0 15px;
+}
+.title-default {
+    margin: 0 0 20px 13px;
+    display: block;
+    min-height: 33px;
+    box-shadow: #ff2851 0 -1px 0 inset;
+    overflow: visible;
+    position: relative;
+}
+.title-default > div {
+    height: 33px;
+    float: left;
+    text-transform: uppercase;
+    font: 600 18px/33px Dosis, sans-serif;
+    color: #181818;
+    position: relative;
+    z-index: 10000;
+}
+.title-default > div:before {
+    top: 0;
+    left: -10px;
+    content: "";
+    width: 13px;
+    height: 33px;
+    transform: skewX(-10deg);
+    background: rgba(255,40,81,0.5);
+    position: absolute;
+    border-right: 3px solid #181818;
+    transition: 400ms ease;
+    z-index: 100000;
+}
+.row-trung-tam{
+    background: #181818;
+    padding: 10px;
+}
+
+.section-trung-tam,#main.dark{
+        background-attachment: fixed!important;
+    background-repeat: repeat!important;
+    background-position: left top;
+    background-size: auto;
+    background-image: url(http://planetshine.net/demo/goodgame/wp-content/uploads/2016/11/ggbg.jpg) !important;
+}
+.product-type-simple .content-row {
+        background: #181818;
+    margin-top: 8px;
+    padding-top: 22px;
+}
+.related .box-excerpt{
+    display: none;
+}
+.row-divided>.col+.col:not(.large-12){
+    border-left: none;
+}
+
+/*Màu sắc button*/
+.social-button, .social-icons .button.icon:not(.is-outline), .social-icons .button.icon:hover {
+    background-color: currentColor !important;
+    border-color: currentColor !important;
+}
+.button.facebook,.button.facebook:not(.is-outline), .button.facebook:hover {
+color: #fff;
+    background-color: #446084;
+    border-color: #446084;
+}
+.button.twitter,.button.twitter:not(.is-outline), .button.twitter:hover {
+	color: white !important;
+   background : #2478ba !important;
+    border-color: #2478ba;
+}
+.button.email,.button.email:not(.is-outline), .button.email:hover {
+    color: #fff;
+    background-color: black !important;
+    border-color: black !important;
+}
+.button.pinterest,.button.pinterest:not(.is-outline), .button.pinterest:hover {
+color: #fff !important;
+    background-color: #cb2320  !important;
+    border-color: #cb2320  !important;
+}
+
+.button.google-plus,.button.google-plus:not(.is-outline), .button.google-plus:hover {
+color: #fff !important;
+    background-color: #dd4e31 !important;
+    border-color: #dd4e31  !important;
+}
+.button.linkedin,.button.linkedin:not(.is-outline), .button.linkedin:hover {
+color: #fff !important;
+    background-color: #0072b7 !important;
+    border-color: #0072b7     !important;
+}
+
+.single-date{
+        border-bottom: 1px dashed #ededed;
+}
+h1.entry-title{
+    font-size: 24px !important;
+}
+/*Kết thúc màu sắc*/
+
+
+
+footer.entry-meta {
+
+    border-top: none !important;
+    border-bottom: 1px dashed #ececec !important;
+    
+}
+
+.entry-content img{
+	width: auto !important
+}
+.duong-line {
+    background: rgba(0,0,0,0) url(images/line.png) repeat scroll 0 0;
+    height: 12px;
+    margin-top: 5px;
+    overflow: hidden;
+}
+.related-post h7{
+	font-weight: bold;
+	    font-size: 18px;
+    float: left;
+    margin: -8px 20px 0 0;
+}
+
+@media(max-width: 769px){
+    .flickity-slider .box-text .box-excerpt{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}

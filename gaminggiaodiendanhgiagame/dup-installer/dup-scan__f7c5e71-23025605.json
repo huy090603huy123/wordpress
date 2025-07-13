@@ -1,0 +1,441 @@
+{
+    "RPT": {
+        "ScanTime": "0.385 sec.",
+        "ScanFile": "20200923_gaminggiaodiendanhgiagame_f7c5e7195c2f98bf2375_20200923025605_scan.json",
+        "ScanCreated": "2020-09-23 02:56:07",
+        "ScanPath": "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/backups-dup-pro\/tmp\/20200923_gaminggiaodiendanhgiagame_f7c5e7195c2f98bf2375_20200923025605_scan.json"
+    },
+    "SRV": {
+        "Brand": {
+            "LogoAttachmentExists": false,
+            "LogoCount": 0,
+            "LogoFinded": 0,
+            "LogoImageExists": true,
+            "LogoImages": [],
+            "Name": "Default",
+            "Notes": "The default content used when a brand is not defined"
+        },
+        "HOST": [],
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "openssl": true,
+            "mysqli": true,
+            "allowurlfopen": true,
+            "curlavailable": true,
+            "version": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ismuplus": true,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "154.46MB",
+        "DirCount": "1,581",
+        "FileCount": "10,516",
+        "FullCount": "12,097",
+        "USize": 161960481,
+        "UDirCount": 1581,
+        "UFileCount": 10516,
+        "UFullCount": 12097,
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/.opcache",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/.tmb",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/ai1wm-backups",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/backups-dup-pro",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/backups-dup-pro",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/backupwordpress",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/cache",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/content\/cache",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/contents\/cache",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/infinitewp\/backups",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/managewp\/backups",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/old-cache",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/plugins\/really-simple-captcha\/tmp",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/plugins\/wordfence\/tmp",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/updraft",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/uploads\/aiowps_backups",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/uploads\/backup-guard",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/uploads\/backupbuddy_backups",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/uploads\/backupbuddy_temp",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/uploads\/ithemes-security\/backups",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/uploads\/mainwp\/backup",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/uploads\/pb_backupbuddy",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/uploads\/snapshots",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/uploads\/sucuri",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/uploads\/wp-clone",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/uploads\/wp_all_backup",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/uploads\/wpbackitup_backups",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/wfcache",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-content\/wishlist-backup",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            ".DS_Store",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/.htaccess",
+            "\/home\/gaming.giaodienwebmau.com\/public_html\/wp-config.php",
+            "dbcache",
+            "debug_log",
+            "error_log",
+            "objectcache",
+            "pgcache",
+            "ws_ftp.log"
+        ],
+        "FilterExtsAll": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "Big": "Good",
+            "AddonSites": "Good",
+            "UnreadableItems": "Good",
+            "MigratePackage": "Good",
+            "CanbeMigratePackage": true,
+            "showCreateFuncStatus": "Good",
+            "showCreateFunc": true
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "Size": "Good",
+            "Rows": "Good"
+        },
+        "Size": "2.97MB",
+        "Rows": "1,326",
+        "TableCount": 53,
+        "TableList": {
+            "wp_actionscheduler_actions": {
+                "Case": 0,
+                "Rows": "5",
+                "Size": "128KB",
+                "USize": 131072
+            },
+            "wp_actionscheduler_claims": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_actionscheduler_groups": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_actionscheduler_logs": {
+                "Case": 0,
+                "Rows": "13",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_commentmeta": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_comments": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "112KB",
+                "USize": 114688
+            },
+            "wp_duplicator_pro_entities": {
+                "Case": 0,
+                "Rows": "5",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_duplicator_pro_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_options": {
+                "Case": 0,
+                "Rows": "402",
+                "Size": "432KB",
+                "USize": 442368
+            },
+            "wp_postmeta": {
+                "Case": 0,
+                "Rows": "428",
+                "Size": "128KB",
+                "USize": 131072
+            },
+            "wp_posts": {
+                "Case": 0,
+                "Rows": "77",
+                "Size": "176KB",
+                "USize": 180224
+            },
+            "wp_social_users": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_term_relationships": {
+                "Case": 0,
+                "Rows": "24",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_term_taxonomy": {
+                "Case": 0,
+                "Rows": "29",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_termmeta": {
+                "Case": 0,
+                "Rows": "17",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_terms": {
+                "Case": 0,
+                "Rows": "29",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_usermeta": {
+                "Case": 0,
+                "Rows": "65",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_users": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_wc_admin_note_actions": {
+                "Case": 0,
+                "Rows": "7",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_wc_admin_notes": {
+                "Case": 0,
+                "Rows": "4",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_wc_category_lookup": {
+                "Case": 0,
+                "Rows": "6",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_wc_customer_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_wc_download_log": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_wc_order_coupon_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_wc_order_product_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wp_wc_order_stats": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_wc_order_tax_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_wc_product_meta_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "112KB",
+                "USize": 114688
+            },
+            "wp_wc_reserved_stock": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_wc_tax_rate_classes": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_wc_webhooks": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_woocommerce_api_keys": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_woocommerce_attribute_taxonomies": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_woocommerce_downloadable_product_permissions": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_woocommerce_log": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_woocommerce_order_itemmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_woocommerce_order_items": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_woocommerce_payment_tokenmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_woocommerce_payment_tokens": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_woocommerce_sessions": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_woocommerce_shipping_zone_locations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_woocommerce_shipping_zone_methods": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_woocommerce_shipping_zones": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_woocommerce_tax_rate_locations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_woocommerce_tax_rates": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wp_wpmailsmtp_tasks_meta": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_yoast_indexable": {
+                "Case": 0,
+                "Rows": "7",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wp_yoast_indexable_hierarchy": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_yoast_migrations": {
+                "Case": 0,
+                "Rows": "18",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_yoast_primary_term": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_yoast_seo_links": {
+                "Case": 0,
+                "Rows": "106",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_yoast_seo_meta": {
+                "Case": 0,
+                "Rows": "72",
+                "Size": "16KB",
+                "USize": 16384
+            }
+        }
+    },
+    "Status": 1
+}

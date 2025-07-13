@@ -1,0 +1,10 @@
+2020-09-19T16:16:34+00:00 CRITICAL Uncaught Error: Call to undefined function wc_review_ratings_enabled() in /home/gaming.giaodienwebmau.com/public_html/wp-content/plugins/devvn-woocommerce-reviews/templates/single-product-reviews.php:48
+Stack trace:
+#0 /home/gaming.giaodienwebmau.com/public_html/wp-includes/comment-template.php(1472): require()
+#1 /home/gaming.giaodienwebmau.com/public_html/wp-content/themes/flatsome/woocommerce/single-product/tabs/tabs.php(62): comments_template('reviews', Array)
+#2 /home/gaming.giaodienwebmau.com/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include('/home/gaming.gi...')
+#3 /home/gaming.giaodienwebmau.com/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1094): wc_get_template('single-product/...')
+#4 /home/gaming.giaodienwebmau.com/public_html/wp-includes/class-wp-hook.php(286): woocommerce_output_product_data_tabs('')
+#5 /home/gaming.giaodienwebmau.com/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/ga
+

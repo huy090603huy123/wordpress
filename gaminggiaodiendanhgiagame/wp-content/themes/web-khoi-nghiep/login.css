@@ -1,0 +1,11 @@
+#login h1 a {
+background: url("images/logo.png") no-repeat !important;
+width: 270px !important
+}
+body{
+	background: url("images/nen.jpg");
+	background-size: cover;
+}
+#nav a,#backtoblog a{
+	color: black !important;
+}
